@@ -1,7 +1,0 @@
-===== Resume Screening Report =====
-
-Matched Skills: ['python', 'machine learning', 'nlp', 'sql', 'flask', 'pandas', 'numpy', 'scikit-learn']
-
-Missing Skills: []
-
-Skill Match Percentage: 100.00%
